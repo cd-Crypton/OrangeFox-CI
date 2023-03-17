@@ -2,10 +2,10 @@
 
 # Device
 export FOX_BRANCH="fox_12.1"
-export DT_LINK="https://gitlab.com/faoliveira78/device_oneplus_cheeseburger_dumpling.git -b fox_12.1"
+export DT_LINK="https://github.com/cd-Crypton/custom_recovery_tree_realme_messi -b twrp-12.1"
 
-export DEVICE="OP5x5T"
-export OEM="oneplus"
+export DEVICE="messi"
+export OEM="realme"
 export DT_PATH="device/$OEM/$DEVICE"
 
 # Build Target
